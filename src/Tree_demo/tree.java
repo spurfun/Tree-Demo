@@ -8,6 +8,7 @@ import java.util.Stack;
 class myClass {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
+        System.out.println("版本控制相关");
         myClass tree = new myClass();
         int[] datas = new int[]{1,2,3,4,5,6,7,8,9};
         List<Node> nodelist = new LinkedList<>();
